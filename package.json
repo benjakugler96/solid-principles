@@ -1,0 +1,19 @@
+{
+  "name": "solid",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "Benjamin",
+    "email": "benjamin.kugler1996@gmail.com"
+  },
+  "repository": "/solid",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
